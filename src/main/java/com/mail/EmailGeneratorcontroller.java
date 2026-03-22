@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/email")
+@CrossOrigin(origins = "*") //allows requests from everywhere
 public class EmailGeneratorcontroller {
 
     private final EmailGeneratorService emailGeneratorService;

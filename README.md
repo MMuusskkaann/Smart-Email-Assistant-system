@@ -79,7 +79,7 @@ Smart-Email-Assistant/
 
 
 👉 **Extension Repository:**  
-[Smart Email Assistant Extension](https://github.com/MMuusskkaann/smart-email-ai-assistant-extension)
+[Smart Email Assistant Extension]https://github.com/MMuusskkaann/smart-email-ai-assistant-extension)
 
 ---
 
